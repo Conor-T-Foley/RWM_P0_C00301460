@@ -1,0 +1,9 @@
+{
+    "name": "peer-filter-c00301460",
+    "version": "0.1.1",
+    "type": "module",
+    "exports": {
+        ".": "./Sprint 1/src/lib/filters/biggestWithSameDigits.ts"
+    }
+
+}
