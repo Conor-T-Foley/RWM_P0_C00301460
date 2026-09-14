@@ -3,7 +3,7 @@
     "version": "0.1.1",
     "type": "module",
     "exports": {
-        ".": "./Sprint 1/src/lib/filters/biggestWithSameDigits.ts"
+        ".": "./Sprint_One/src/lib/filters/biggestWithSameDigits.ts"
     }
 
 }

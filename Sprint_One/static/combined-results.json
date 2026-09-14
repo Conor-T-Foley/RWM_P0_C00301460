@@ -1,0 +1,39 @@
+{
+  "filterOrder": "mine->peer",
+  "inputs": {
+    "basic": [
+      12,
+      23,
+      34,
+      45,
+      56
+    ],
+    "edges": [],
+    "zeros": [
+      0
+    ],
+    "small": [
+      1,
+      12,
+      13
+    ]
+  },
+  "outputs": {
+    "basic": [
+      21,
+      32,
+      43,
+      54,
+      65
+    ],
+    "edges": [],
+    "zeros": [
+      0
+    ],
+    "small": [
+      1,
+      21,
+      31
+    ]
+  }
+}

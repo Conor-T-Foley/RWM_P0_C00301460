@@ -9,6 +9,9 @@
     let output = $derived(cubes(input));
 </script>
 
+<h1>Combined (Mine -> Peer)</h1>
+<label>Input<input bind:value={raw}/></label>
+<p>Output: {output.join('')}</p>
 
 <h1>Sequence Filter Demo</h1>
 <label>
